@@ -1,2 +1,3 @@
 # hello-world
-My first GitHub repository
+
+All the world's indeed a stage, and we are merely players.
